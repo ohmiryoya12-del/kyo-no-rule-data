@@ -1,87 +1,100 @@
- [                                                         
-    { "id": "rule-001", "text": "가방 안을 정리한다.", "active": true },
-    { "id": "rule-002", "text": "\u201c대박\u201d 금지.", "active": true },     
-    { "id": "rule-003", "text": "하늘 사진을 찍는다.", "active": true },        
+[                                                                             
+    { "id": "rule-001", "text": "가방 안을 정리한다.", "active": true },        
+    { "id": "rule-002", "text": "\"대박\" 금지.", "active": true },             
+    { "id": "rule-003", "text": "하늘 사진을 찍는다.", "active": true,
+  "outdoor": true },                          
     { "id": "rule-004", "text": "먼저 인사한다.", "active": true },             
     { "id": "rule-005", "text": "평소에 안 입는 옷을 입는다.", "active": true },
-    { "id": "rule-006", "text": "\u201c그래도\u201d라고 말하지 않는다.",        
-  "active": true },                                                             
-    { "id": "rule-007", "text": "내려본 적 없는 역에 간다.", "active": true },  
+    { "id": "rule-006", "text": "\"그래도\"라고 말하지 않는다.", "active": true 
+  },                                                                            
+    { "id": "rule-007", "text": "내려본 적 없는 역에 간다.", "active": true,    
+  "outdoor": true },                                                            
     { "id": "rule-008", "text": "일기를 쓴다.", "active": true },               
     { "id": "rule-009", "text": "거울을 보고 미소 짓는다.", "active": true },   
-    { "id": "rule-010", "text": "\u201c감사해요\u201d를 3번 이상 말한다.",      
-  "active": true },                                                             
-    { "id": "rule-011", "text": "춤춘다.", "active": true },
+    { "id": "rule-010", "text": "\"감사해요\"를 3번 이상 말한다.", "active":    
+  true },                                                   
+    { "id": "rule-011", "text": "춤춘다.", "active": true },                    
     { "id": "rule-012", "text": "윙크해 본다.", "active": true },               
-    { "id": "rule-013", "text": "누군가에게 먼저 사인을 보낸다.", "active": true
-   },                                                                           
+    { "id": "rule-013", "text": "누군가에게 먼저 사인을 보낸다.", "active":     
+  true, "outdoor": true },                                                      
     { "id": "rule-014", "text": "SNS를 보지 않는다.", "active": true },         
     { "id": "rule-015", "text": "가방 속 물건을 전부 꺼낸다.", "active": true },
     { "id": "rule-016", "text": "1분간 눈을 감는다.", "active": true },         
     { "id": "rule-017", "text": "깊게 숨을 쉰다.", "active": true },            
-    { "id": "rule-018", "text": "거리에서 \u201c3\u201d을 찾는다.", "active":   
-  true },                                                                       
+    { "id": "rule-018", "text": "거리에서 \"3\"을 찾는다.", "active": true,     
+  "outdoor": true },                                                            
     { "id": "rule-019", "text": "스트레칭한다.", "active": true },              
     { "id": "rule-020", "text": "모르는 언어로 인사말을 외운다.", "active": true
    },                                                                           
     { "id": "rule-022", "text": "먹어본 적 없는 것을 먹는다.", "active": true },
-    { "id": "rule-023", "text": "꽃 한 송이를 산다.", "active": true },         
-    { "id": "rule-024", "text": "서점에 간다.", "active": true },               
+    { "id": "rule-023", "text": "꽃 한 송이를 산다.", "active": true, "outdoor":
+   true },                                                                      
+    { "id": "rule-024", "text": "서점에 간다.", "active": true, "outdoor": true
+  },                                                                            
     { "id": "rule-025", "text": "따뜻한 물을 마신다.", "active": true },        
     { "id": "rule-026", "text": "누군가를 칭찬한다.", "active": true },         
     { "id": "rule-027", "text": "악수한다.", "active": true },                  
-    { "id": "rule-028", "text": "스킵하듯 걷는다.", "active": true },           
-    { "id": "rule-029", "text": "공원에 간다.", "active": true },               
-    { "id": "rule-030", "text": "조금 돌아서 집에 간다.", "active": true },     
+    { "id": "rule-028", "text": "스킵하듯 걷는다.", "active": true },
+    { "id": "rule-029", "text": "공원에 간다.", "active": true, "outdoor": true 
+  },                                                        
+    { "id": "rule-030", "text": "조금 돌아서 집에 간다.", "active": true,       
+  "outdoor": true },                                        
     { "id": "rule-031", "text": "들어본 적 없는 곡을 듣는다.", "active": true },
-    { "id": "rule-032", "text": "\u201c진짜\u201d 금지.", "active": true },     
+    { "id": "rule-032", "text": "\"진짜\" 금지.", "active": true },
     { "id": "rule-033", "text": "사진을 찍는다.", "active": true },             
-    { "id": "rule-034", "text": "신발을 가지런히 놓는다.", "active": true },    
+    { "id": "rule-034", "text": "신발을 가지런히 놓는다.", "active": true },
     { "id": "rule-035", "text": "여유를 갖고 천천히 걷는다.", "active": true }, 
     { "id": "rule-036", "text": "써본 적 없는 말을 사용한다.", "active": true },
-    { "id": "rule-037", "text": "\u201c기뻐!\u201d라고 소리 내어 말한다.",      
-  "active": true },                                                             
-    { "id": "rule-038", "text": "우체통을 찾는다.", "active": true },
-    { "id": "rule-039", "text": "보폭을 넓게 한다.", "active": true },          
-    { "id": "rule-040", "text": "평소보다 계단을 더 많이 이용한다.", "active":  
+    { "id": "rule-037", "text": "\"기뻐!\"라고 소리 내어 말한다.", "active":    
   true },                                                                       
+    { "id": "rule-038", "text": "우체통을 찾는다.", "active": true, "outdoor":  
+  true },                                                                       
+    { "id": "rule-039", "text": "보폭을 넓게 한다.", "active": true, "outdoor": 
+  true },                                                                       
+    { "id": "rule-040", "text": "평소보다 계단을 더 많이 이용한다.", "active":  
+  true, "outdoor": true },                                  
     { "id": "rule-041", "text": "등을 편다.", "active": true },                 
-    { "id": "rule-042", "text": "창문을 연다.", "active": true },               
+    { "id": "rule-042", "text": "창문을 연다.", "active": true },
     { "id": "rule-043", "text": "콧노래를 부른다.", "active": true },           
-    { "id": "rule-044", "text": "거리에서 빨간색을 찾는다.", "active": true },  
-    { "id": "rule-046", "text": "\u201c뭔가\u201d 금지.", "active": true },     
+    { "id": "rule-044", "text": "거리에서 빨간색을 찾는다.", "active": true,
+  "outdoor": true },                                                            
+    { "id": "rule-046", "text": "\"뭔가\" 금지.", "active": true },             
     { "id": "rule-048", "text": "편지를 쓴다.", "active": true },               
     { "id": "rule-049", "text": "5분 동안 멍하니 있는다.", "active": true },    
-    { "id": "rule-050", "text": "좋아하는 말을 찾아본다.", "active": true },    
-    { "id": "rule-051", "text": "평소와 반대 손으로 이를 닦는다.", "active":
+    { "id": "rule-050", "text": "좋아하는 말을 찾아본다.", "active": true },
+    { "id": "rule-051", "text": "평소와 반대 손으로 이를 닦는다.", "active":    
   true },                                                                       
     { "id": "rule-052", "text": "이름을 불러가며 이야기한다.", "active": true },
     { "id": "rule-053", "text": "자기 전에 오늘 좋았던 일을 3가지 떠올린다.",   
   "active": true },                                                             
-    { "id": "rule-055", "text": "\u201c대단해\u201d 말고 다른 말로 칭찬한다.",  
-  "active": true },                                                             
-    { "id": "rule-056", "text": "웃으며 이야기한다.", "active": true },
+    { "id": "rule-055", "text": "\"대단해\" 말고 다른 말로 칭찬한다.", "active":
+   true },                                                                      
+    { "id": "rule-056", "text": "웃으며 이야기한다.", "active": true },         
     { "id": "rule-057", "text": "책을 1페이지 읽는다.", "active": true },       
     { "id": "rule-058", "text": "누군가에게 전화한다.", "active": true },       
-    { "id": "rule-059", "text": "노을을 본다.", "active": true },               
-    { "id": "rule-060", "text": "\u201c저기\u201d 금지.", "active": true },     
+    { "id": "rule-059", "text": "노을을 본다.", "active": true, "outdoor": true
+  },                                                                            
+    { "id": "rule-060", "text": "\"저기\" 금지.", "active": true },             
     { "id": "rule-061", "text": "새로운 단어를 찾아본다.", "active": true },    
     { "id": "rule-062", "text": "천천히 차를 마신다.", "active": true },        
-    { "id": "rule-063", "text": "지도를 보지 않고 걷는다.", "active": true },   
+    { "id": "rule-063", "text": "지도를 보지 않고 걷는다.", "active": true,     
+  "outdoor": true },                                                            
     { "id": "rule-064", "text": "오른손과 왼손을 동시에 움직인다.", "active":   
   true },                                                                       
     { "id": "rule-065", "text": "누군가의 좋은 점을 3가지 생각한다.", "active": 
   true },                                                                       
-    { "id": "rule-066", "text": "신발 끈을 단단히 묶는다.", "active": true },
-    { "id": "rule-067", "text": "발가락을 움직인다.", "active": true },         
-    { "id": "rule-068", "text": "모르는 꽃 이름을 찾아본다.", "active": true }, 
+    { "id": "rule-066", "text": "신발 끈을 단단히 묶는다.", "active": true },   
+    { "id": "rule-067", "text": "발가락을 움직인다.", "active": true },
+    { "id": "rule-068", "text": "모르는 꽃 이름을 찾아본다.", "active": true,   
+  "outdoor": true },                          
     { "id": "rule-070", "text": "기다리는 동안 아무것도 하지 않는다.", "active":
    true },                                                                      
-    { "id": "rule-071", "text": "모르는 골목을 돈다.", "active": true },        
+    { "id": "rule-071", "text": "모르는 골목을 돈다.", "active": true,          
+  "outdoor": true },                                                            
     { "id": "rule-073", "text": "가본 적 없는 편의점에 들어간다.", "active":    
-  true },                                                                       
+  true, "outdoor": true },                                  
     { "id": "rule-074", "text": "다리를 뻗는다.", "active": true },             
-    { "id": "rule-075", "text": "소리 내어 웃는다.", "active": true },          
+    { "id": "rule-075", "text": "소리 내어 웃는다.", "active": true },
     { "id": "rule-076", "text": "누군가를 위해 작은 일을 하나 한다.", "active": 
-  true }                                                                        
-  ] 
+  true }                                                    
+  ]
