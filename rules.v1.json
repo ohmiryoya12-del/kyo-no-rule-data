@@ -62,7 +62,7 @@
     { "id": "rule-049", "text": "5分間、ぼーっとする。", "active": true },
     { "id": "rule-050", "text": "好きな言葉を探してみる。", "active": true },   
     { "id": "rule-051", "text": "いつもと逆の手で歯を磨く。", "active": true }, 
-    { "id": "rule-052", "text": "名前を呼んで話す。", "active": true },
+    { "id": "rule-052", "text": "話し相手の名前を呼んで話す。", "active": true },
     { "id": "rule-053", "text": "寝る前に今日よかったことを3つ思い浮かべる。",  
   "active": true },                                         
     { "id": "rule-055", "text": "「すごい」以外で褒める。", "active": true },   
