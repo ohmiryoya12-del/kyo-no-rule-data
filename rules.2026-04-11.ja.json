@@ -1,422 +1,542 @@
 [
   {
+    "id": "rule-dummy",
+    "active": false,
+    "text": "ダミー"
+  },
+  {
     "id": "rule-001",
-    "text": "カバンの中を整理する。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "鞄の中を整理する。"
   },
   {
     "id": "rule-002",
-    "text": "「やばい」禁止。",
-    "outdoor": false,
-    "active": true
+    "active": false,
+    "text": "「やばい」禁止。"
   },
   {
     "id": "rule-003",
-    "text": "空の写真を撮る。",
+    "active": true,
     "outdoor": true,
-    "active": true
+    "text": "空の写真を撮る。"
   },
   {
     "id": "rule-004",
-    "text": "自分から挨拶する。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "自分から挨拶する。"
   },
   {
     "id": "rule-005",
-    "text": "いつも着ない服を着る。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "いつも着ない服を着る。"
   },
   {
     "id": "rule-006",
-    "text": "「でも」と言わない。",
-    "outdoor": false,
-    "active": true
+    "active": false,
+    "text": "「でも」と言わない。"
   },
   {
     "id": "rule-007",
-    "text": "降りたことのない駅にいく。",
+    "active": true,
     "outdoor": true,
-    "active": true
+    "text": "降りたことない駅にいく。"
   },
   {
     "id": "rule-008",
-    "text": "日記を書く。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "日記を書く。"
   },
   {
     "id": "rule-009",
-    "text": "鏡にほほえむ。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "鏡に微笑む。"
   },
   {
     "id": "rule-010",
-    "text": "ありがとうを3回以上言う。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "ありがとうを3回以上いう。"
   },
   {
     "id": "rule-011",
-    "text": "踊る。",
-    "outdoor": false,
-    "active": true
+    "active": false,
+    "text": "踊る。"
   },
   {
     "id": "rule-012",
-    "text": "ウインクしてみる。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "ウインクしてみる。"
   },
   {
     "id": "rule-013",
-    "text": "信号を1回見送る。",
+    "active": true,
     "outdoor": true,
-    "active": true
+    "text": "信号を1回見送る。"
   },
   {
     "id": "rule-014",
-    "text": "SNSをみない。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "SNSをみない。"
   },
   {
     "id": "rule-015",
-    "text": "カバンの中身を全部出す。",
-    "outdoor": false,
-    "active": true
+    "active": false,
+    "text": "鞄の中身を全部出す。"
   },
   {
     "id": "rule-016",
-    "text": "1分間、目をつむる。",
-    "outdoor": false,
-    "active": true
+    "active": false,
+    "text": "1分間、目をつむる。"
   },
   {
     "id": "rule-017",
-    "text": "深呼吸する。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "深呼吸する。"
   },
   {
     "id": "rule-018",
-    "text": "街中で「3」を探す。",
+    "active": false,
     "outdoor": true,
-    "active": true
+    "text": "街中で「18」を探す。"
   },
   {
     "id": "rule-019",
-    "text": "ストレッチする。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "ストレッチする。"
   },
   {
     "id": "rule-020",
-    "text": "知らない言語の挨拶を覚える。",
-    "outdoor": false,
-    "active": true
+    "active": false,
+    "text": "知らない言語の挨拶を覚える。"
+  },
+  {
+    "id": "rule-021",
+    "active": true,
+    "text": "知らない言語の挨拶を使う。"
   },
   {
     "id": "rule-022",
-    "text": "食べたことないものをたべる。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "食べたことないものを食べる。"
   },
   {
     "id": "rule-023",
-    "text": "花を1輪買う。",
+    "active": true,
     "outdoor": true,
-    "active": true
+    "text": "花を1輪買う。"
   },
   {
     "id": "rule-024",
-    "text": "本屋に行く。",
+    "active": true,
     "outdoor": true,
-    "active": true
+    "text": "本屋に行く。"
   },
   {
     "id": "rule-025",
-    "text": "お湯を飲む。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "お湯を飲む。"
   },
   {
     "id": "rule-026",
-    "text": "誰かを褒める。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "誰かを褒める。"
   },
   {
     "id": "rule-027",
-    "text": "握手する。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "握手する。"
   },
   {
     "id": "rule-028",
-    "text": "スキップする。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "スキップする。"
   },
   {
     "id": "rule-029",
-    "text": "公園にいく。",
+    "active": true,
     "outdoor": true,
-    "active": true
+    "text": "公園にいく。"
   },
   {
     "id": "rule-030",
-    "text": "遠回りして帰る。",
+    "active": true,
     "outdoor": true,
-    "active": true
+    "text": "遠回りして帰る。"
   },
   {
     "id": "rule-031",
-    "text": "聞いたことのない曲を聴く。",
-    "outdoor": false,
-    "active": true
+    "active": false,
+    "text": "聞いたことのない曲を聴く。"
   },
   {
     "id": "rule-032",
-    "text": "「マジ」禁止。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "「マジ」禁止。"
   },
   {
     "id": "rule-033",
-    "text": "写真を撮る。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "写真を撮る。"
   },
   {
     "id": "rule-034",
-    "text": "靴をそろえる。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "靴を揃える。"
   },
   {
     "id": "rule-035",
-    "text": "気持ちゆっくり歩く。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "気持ちゆっくり歩く。"
   },
   {
     "id": "rule-036",
-    "text": "使ったことない言葉をつかう。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "使ったことない言葉をつかう。"
   },
   {
     "id": "rule-037",
-    "text": "「うれしい」と言葉に出す。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "「うれしい」と言葉に出す。"
   },
   {
     "id": "rule-038",
-    "text": "郵便ポストをみつける。",
+    "active": true,
     "outdoor": true,
-    "active": true
+    "text": "郵便ポストをみつける。"
   },
   {
     "id": "rule-039",
-    "text": "歩幅を広くする。",
-    "outdoor": true,
-    "active": true
+    "active": true,
+    "text": "歩幅を広くする。"
   },
   {
     "id": "rule-040",
-    "text": "いつもより多く階段を使う。",
-    "outdoor": true,
-    "active": true
+    "active": false,
+    "text": "姿勢を正す。"
   },
   {
     "id": "rule-041",
-    "text": "背筋をのばす。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "outdoor": true,
+    "text": "街中で「赤」を探す。"
   },
   {
     "id": "rule-042",
-    "text": "窓を開ける。",
-    "outdoor": false,
-    "active": true
+    "active": false,
+    "text": "「なんか」禁止。"
   },
   {
     "id": "rule-043",
-    "text": "鼻歌をうたう。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "電車でスマホを見ない。"
   },
   {
     "id": "rule-044",
-    "text": "街中で「赤」をさがす。",
+    "active": false,
     "outdoor": true,
-    "active": true
+    "text": "行ったことないコンビニに行く。"
+  },
+  {
+    "id": "rule-045",
+    "active": true,
+    "text": "街中の「面白いフォント」を探す。"
   },
   {
     "id": "rule-046",
-    "text": "「なんか」禁止。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "outdoor": true,
+    "text": "マンホールを踏む。"
+  },
+  {
+    "id": "rule-047",
+    "active": true,
+    "text": "顔を触らない。"
   },
   {
     "id": "rule-048",
-    "text": "手紙を書く。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "outdoor": true,
+    "text": "葉っぱに触る。"
   },
   {
     "id": "rule-049",
-    "text": "5分間、ぼーっとする。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "outdoor": true,
+    "text": "夕焼けを見る。"
   },
   {
     "id": "rule-050",
-    "text": "好きな言葉を探してみる。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "折り紙をつくる。"
   },
   {
     "id": "rule-051",
-    "text": "いつもと逆の手で歯を磨く。",
-    "outdoor": false,
-    "active": true
+    "active": false,
+    "text": "ベンチに座る。"
   },
   {
     "id": "rule-052",
-    "text": "名前を呼んで話す。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "絵を描く。"
   },
   {
     "id": "rule-053",
-    "text": "寝る前に今日よかったことを3つ思い浮かべる。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "拍手を送る。"
+  },
+  {
+    "id": "rule-054",
+    "active": true,
+    "text": "鳥をみつける。"
   },
   {
     "id": "rule-055",
-    "text": "「すごい」以外で褒める。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "イヤホンをしない。"
   },
   {
     "id": "rule-056",
-    "text": "笑顔で話す。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "ハートマークを探す。"
   },
   {
     "id": "rule-057",
-    "text": "本を1ページ読む。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "腕組み禁止。"
   },
   {
     "id": "rule-058",
-    "text": "誰かに電話する。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "部屋の中で「三角形」を見つける。"
   },
   {
     "id": "rule-059",
-    "text": "夕焼けをみる。",
-    "outdoor": true,
-    "active": true
+    "active": true,
+    "text": "飲んだことない飲み物を飲む。"
   },
   {
     "id": "rule-060",
-    "text": "「えっと」禁止。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "歩数を「100歩」まで数えて歩く。"
   },
   {
     "id": "rule-061",
-    "text": "新しい言葉を調べる。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "アナログ時計を探す。"
   },
   {
     "id": "rule-062",
-    "text": "ゆっくりお茶を飲む。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "「えーっと」禁止。"
   },
   {
     "id": "rule-063",
-    "text": "地図をみないで歩く。",
-    "outdoor": true,
-    "active": true
+    "active": true,
+    "text": "「ザラザラ」を探す。"
   },
   {
     "id": "rule-064",
-    "text": "右手と左手を同時に動かす。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "outdoor": true,
+    "text": "外で指を鳴らす。"
   },
   {
     "id": "rule-065",
-    "text": "誰かのいいところを3つ考える。",
-    "outdoor": false,
-    "active": true
+    "active": false,
+    "text": "「ひらがな」だけの看板を探す。"
   },
   {
     "id": "rule-066",
-    "text": "靴ひもをしっかり結ぶ。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "ワニのイラストをみつける。"
   },
   {
     "id": "rule-067",
-    "text": "足の指を動かす。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "outdoor": true,
+    "text": "木に触る。"
   },
   {
     "id": "rule-068",
-    "text": "知らない花の名前を調べる。",
-    "outdoor": true,
-    "active": true
+    "active": true,
+    "text": "13:37に時計を見る。"
+  },
+  {
+    "id": "rule-069",
+    "active": true,
+    "text": "広告を見る。"
   },
   {
     "id": "rule-070",
-    "text": "待ち時間に何もしない。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "今年の抱負を思い出す。"
   },
   {
     "id": "rule-071",
-    "text": "知らない角を曲がる。",
-    "outdoor": true,
-    "active": true
+    "active": true,
+    "text": "会話した人数をカウントする。"
+  },
+  {
+    "id": "rule-072",
+    "active": true,
+    "text": "今日の出来事でエピソードトークを作る。"
   },
   {
     "id": "rule-073",
-    "text": "行ったことのないコンビニに入る。",
+    "active": true,
     "outdoor": true,
-    "active": true
+    "text": "鳥居を見つける。"
   },
   {
     "id": "rule-074",
-    "text": "足をのばす。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "渾身の「あ」を書いてみる。"
   },
   {
     "id": "rule-075",
-    "text": "笑い声をあげる。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "outdoor": true,
+    "text": "蟻を見つける。"
   },
   {
     "id": "rule-076",
-    "text": "誰かのために何かをする。",
-    "outdoor": false,
-    "active": true
+    "active": true,
+    "text": "気持ちゆっくり喋る。"
+  },
+  {
+    "id": "rule-077",
+    "active": false,
+    "text": "座った回数を数える。"
+  },
+  {
+    "id": "rule-078",
+    "active": true,
+    "text": "こんにちはを3回以上いう。"
+  },
+  {
+    "id": "rule-079",
+    "active": true,
+    "text": "風船を見つける。"
+  },
+  {
+    "id": "rule-080",
+    "active": true,
+    "text": "一人称を変える。"
+  },
+  {
+    "id": "rule-081",
+    "active": true,
+    "text": "足を組まない。"
+  },
+  {
+    "id": "rule-082",
+    "active": true,
+    "text": "誰かに向かってピースする。"
+  },
+  {
+    "id": "rule-083",
+    "active": true,
+    "outdoor": true,
+    "text": "青色の車を見つける。"
+  },
+  {
+    "id": "rule-084",
+    "active": true,
+    "text": "解の公式を思い出す。"
+  },
+  {
+    "id": "rule-085",
+    "active": true,
+    "text": "よく噛んで食べる。"
+  },
+  {
+    "id": "rule-086",
+    "active": true,
+    "text": "にらめっこする。"
+  },
+  {
+    "id": "rule-087",
+    "active": true,
+    "text": "誰かと「アルプス一万尺」をする。"
+  },
+  {
+    "id": "rule-088",
+    "active": false,
+    "text": "電話する。"
+  },
+  {
+    "id": "rule-089",
+    "active": false,
+    "text": "今日誕生日の人を探す。"
+  },
+  {
+    "id": "rule-090",
+    "active": false,
+    "text": "6人と握手する。"
+  },
+  {
+    "id": "rule-091",
+    "active": true,
+    "text": "さん付けで呼ぶ。"
+  },
+  {
+    "id": "rule-092",
+    "active": true,
+    "text": "ポケットに手を入れない。"
+  },
+  {
+    "id": "rule-093",
+    "active": false,
+    "text": "12:47に拍手する。"
+  },
+  {
+    "id": "rule-094",
+    "active": true,
+    "text": "１行でも本を読む。"
+  },
+  {
+    "id": "rule-095",
+    "active": false,
+    "text": "気持ちハキハキ話す。"
+  },
+  {
+    "id": "rule-096",
+    "active": true,
+    "outdoor": true,
+    "text": "横断歩道で白い線だけをふむ。"
+  },
+  {
+    "id": "rule-097",
+    "active": true,
+    "text": "後回しにしていたことを一つ進める。"
+  },
+  {
+    "id": "rule-098",
+    "active": false,
+    "text": "「正三角形」を見つける。"
+  },
+  {
+    "id": "rule-099",
+    "active": true,
+    "text": "鏡を8秒間見つめる。"
+  },
+  {
+    "id": "rule-100",
+    "active": false,
+    "text": "腕立て伏せを5回する。"
+  },
+  {
+    "id": "rule-101",
+    "active": true,
+    "text": "一文字でも手書きで字を書く。"
+  },
+  {
+    "id": "rule-102",
+    "active": true,
+    "text": "じゃんけんで5回勝つ。"
+  },
+  {
+    "id": "rule-103",
+    "active": false,
+    "text": "3人とハイタッチする。"
   }
 ]
