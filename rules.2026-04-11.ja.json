@@ -538,5 +538,10 @@
     "id": "rule-103",
     "active": false,
     "text": "話した人とグータッチする。"
+  },
+  {
+    "id": "rule-104",
+    "active": true,
+    "text": "じゃんけんで3回勝つ。"
   }
 ]
