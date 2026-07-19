@@ -543,5 +543,11 @@
     "id": "rule-104",
     "active": true,
     "text": "じゃんけんで3回勝つ。"
+  },
+  {
+    "id": "rule-105",
+    "active": false,
+    "text": "午後、最初にしゃべった言葉を覚えておく。",
+    "authorName": "たった"
   }
 ]
