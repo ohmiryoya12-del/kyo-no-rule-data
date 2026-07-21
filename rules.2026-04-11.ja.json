@@ -555,5 +555,16 @@
     "active": false,
     "text": "13日前の昼食を思い出す。",
     "authorName": "ばなな"
+  },
+  {
+    "id": "rule-107",
+    "active": false,
+    "text": "移動中にイヤホンをしない。"
+  },
+  {
+    "id": "rule-108",
+    "active": false,
+    "text": "行った店の天井を見つめる。",
+    "authorName": "もやみ"
   }
 ]
