@@ -549,5 +549,11 @@
     "active": false,
     "text": "午後、最初にしゃべった言葉を覚えておく。",
     "authorName": "たった"
+  },
+  {
+    "id": "rule-106",
+    "active": false,
+    "text": "13日前の昼食を思い出す。",
+    "authorName": "ばなな"
   }
 ]
