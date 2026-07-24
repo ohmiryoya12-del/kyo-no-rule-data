@@ -566,5 +566,10 @@
     "active": false,
     "text": "行った店の天井を見つめる。",
     "authorName": "もやみ"
+  },
+  {
+    "id": "rule-109",
+    "active": false,
+    "text": "6人とハイタッチする。"
   }
 ]
