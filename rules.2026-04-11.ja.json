@@ -571,5 +571,11 @@
     "id": "rule-109",
     "active": false,
     "text": "6人とハイタッチする。"
+  },
+  {
+    "id": "rule-110",
+    "active": false,
+    "text": "光る首輪の犬に遭遇する。",
+    "authorName": "あんず"
   }
 ]
