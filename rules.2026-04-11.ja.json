@@ -577,5 +577,11 @@
     "active": false,
     "text": "光る首輪の犬に遭遇する。",
     "authorName": "あんず"
+  },
+  {
+    "id": "rule-111",
+    "active": false,
+    "text": "飛行機の写真を撮る。",
+    "authorName": "だいそー"
   }
 ]
