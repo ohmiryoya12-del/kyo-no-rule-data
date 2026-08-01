@@ -330,7 +330,7 @@
   },
   {
     "id": "rule-063",
-    "active": true,
+    "active": false,
     "text": "「ザラザラ」を探す。"
   },
   {
@@ -351,7 +351,7 @@
   },
   {
     "id": "rule-067",
-    "active": true,
+    "active": false,
     "outdoor": true,
     "text": "木に触る。"
   },
@@ -583,5 +583,28 @@
     "active": false,
     "text": "飛行機の写真を撮る。",
     "authorName": "だいそー"
+  },
+  {
+    "id": "rule-112",
+    "active": false,
+    "text": "口笛で好きな曲のサビを演奏しきる。",
+    "authorName": "ミノムシ"
+  },
+  {
+    "id": "rule-113",
+    "active": false,
+    "text": "誰にも見られずに変顔をする。",
+    "authorName": "いろは"
+  },
+  {
+    "id": "rule-114",
+    "active": false,
+    "text": "ブランコをする。",
+    "authorName": "のあ"
+  },
+  {
+    "id": "rule-115",
+    "active": false,
+    "text": "誰かとアルプス一万尺をする。"
   }
 ]
