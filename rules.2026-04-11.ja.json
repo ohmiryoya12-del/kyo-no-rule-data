@@ -606,5 +606,12 @@
     "id": "rule-115",
     "active": false,
     "text": "誰かとアルプス一万尺をする。"
+  },
+  {
+    "id": "rule-116",
+    "active": false,
+    "outdoor": true,
+    "text": "青信号を一回見送る。",
+    "authorName": "リョータ"
   }
 ]
