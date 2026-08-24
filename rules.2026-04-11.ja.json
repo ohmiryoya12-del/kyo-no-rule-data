@@ -613,5 +613,11 @@
     "outdoor": true,
     "text": "青信号を一回見送る。",
     "authorName": "リョータ"
+  },
+  {
+    "id": "rule-117",
+    "active": false,
+    "outdoor": true,
+    "text": "歩道橋を渡る。"
   }
 ]
