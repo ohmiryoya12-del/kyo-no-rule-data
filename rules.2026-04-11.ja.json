@@ -619,5 +619,10 @@
     "active": false,
     "outdoor": true,
     "text": "歩道橋を渡る。"
+  },
+  {
+    "id": "rule-118",
+    "active": false,
+    "text": "飲み物は両手で持って飲む。"
   }
 ]
