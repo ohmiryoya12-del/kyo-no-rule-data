@@ -795,5 +795,40 @@
     "id": "rule-152",
     "active": false,
     "text": "ワニのイラストを見つける。"
+  },
+  {
+    "id": "rule-153",
+    "active": false,
+    "text": "街中でハートマークを探してみる。"
+  },
+  {
+    "id": "rule-154",
+    "active": false,
+    "text": "ソフトクリームを食べてみる。"
+  },
+  {
+    "id": "rule-155",
+    "active": false,
+    "text": "手押し相撲をしてみる。"
+  },
+  {
+    "id": "rule-156",
+    "active": false,
+    "text": "15:15に親指を立てる。"
+  },
+  {
+    "id": "rule-157",
+    "active": false,
+    "text": "駄菓子を買ってみる。"
+  },
+  {
+    "id": "rule-158",
+    "active": false,
+    "text": "外でターンしてみる。"
+  },
+  {
+    "id": "rule-159",
+    "active": false,
+    "text": "横断歩道の白いところだけを踏んで渡ってみる。"
   }
 ]
