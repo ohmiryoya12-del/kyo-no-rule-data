@@ -830,5 +830,15 @@
     "id": "rule-159",
     "active": false,
     "text": "横断歩道の白いところだけを踏んで渡ってみる。"
+  },
+  {
+    "id": "rule-160",
+    "active": false,
+    "text": "気持ち低い声で話してみる。"
+  },
+  {
+    "id": "rule-161",
+    "active": false,
+    "text": "上腕三頭筋を鍛える。"
   }
 ]
