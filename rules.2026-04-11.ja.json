@@ -840,5 +840,40 @@
     "id": "rule-161",
     "active": false,
     "text": "上腕三頭筋を鍛える。"
+  },
+  {
+    "id": "rule-162",
+    "active": false,
+    "text": "ナタデココを売っている自販機を探す。"
+  },
+  {
+    "id": "rule-163",
+    "active": false,
+    "text": "会話の中で「ひとつよしなに」と言ってみる。"
+  },
+  {
+    "id": "rule-164",
+    "active": false,
+    "text": "背もたれにもたれない。"
+  },
+  {
+    "id": "rule-165",
+    "active": false,
+    "text": "あっち向いてホイをする。"
+  },
+  {
+    "id": "rule-166",
+    "active": false,
+    "text": "倒置法を多用する。"
+  },
+  {
+    "id": "rule-167",
+    "active": false,
+    "text": "街中で30秒立ち止まってみる。"
+  },
+  {
+    "id": "rule-168",
+    "active": false,
+    "text": "鉄棒の下をくぐる。"
   }
 ]
