@@ -875,5 +875,25 @@
     "id": "rule-168",
     "active": false,
     "text": "鉄棒の下をくぐる。"
+  },
+  {
+    "id": "rule-169",
+    "active": false,
+    "text": "道でターンしてみる。"
+  },
+  {
+    "id": "rule-170",
+    "active": false,
+    "text": "ハンドウェーブできるようになる。"
+  },
+  {
+    "id": "rule-171",
+    "active": false,
+    "text": "街でT字を見つけてみる。"
+  },
+  {
+    "id": "rule-172",
+    "active": false,
+    "text": "横断歩道の白線だけを踏んで渡ってみる。"
   }
 ]
