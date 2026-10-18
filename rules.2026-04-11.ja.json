@@ -895,5 +895,50 @@
     "id": "rule-172",
     "active": false,
     "text": "横断歩道の白線だけを踏んで渡ってみる。"
+  },
+  {
+    "id": "rule-173",
+    "active": false,
+    "text": "店で1番高いメニューを確認してみる。"
+  },
+  {
+    "id": "rule-174",
+    "active": false,
+    "text": "家から最短の自販機の最上段左上の商品を予想する。"
+  },
+  {
+    "id": "rule-175",
+    "active": false,
+    "text": "部屋の触ったことない部分を触る。"
+  },
+  {
+    "id": "rule-176",
+    "active": false,
+    "text": "行ったことない都道府県を数える。"
+  },
+  {
+    "id": "rule-177",
+    "active": false,
+    "text": "小学校の校歌を思い出す。"
+  },
+  {
+    "id": "rule-178",
+    "active": false,
+    "text": "曲がり角では、なるべく直角に曲がる。"
+  },
+  {
+    "id": "rule-179",
+    "active": false,
+    "text": "財布の中で、いちばん古い硬貨を探す。"
+  },
+  {
+    "id": "rule-180",
+    "active": false,
+    "text": "誰かと指ずもうをする。"
+  },
+  {
+    "id": "rule-181",
+    "active": false,
+    "text": "犬を見かけたら、勝手に名前をつける。"
   }
 ]
