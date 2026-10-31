@@ -940,5 +940,10 @@
     "id": "rule-181",
     "active": false,
     "text": "犬を見かけたら、勝手に名前をつける。"
+  },
+  {
+    "id": "rule-182",
+    "active": false,
+    "text": "小さな秋を集めてみる。"
   }
 ]
