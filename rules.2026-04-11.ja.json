@@ -945,5 +945,15 @@
     "id": "rule-182",
     "active": false,
     "text": "小さな秋を集めてみる。"
+  },
+  {
+    "id": "rule-183",
+    "active": false,
+    "text": "行ったことない都道府県を数える。"
+  },
+  {
+    "id": "rule-184",
+    "active": false,
+    "text": "部屋の触ったことない部分を触る。"
   }
 ]
