@@ -955,5 +955,75 @@
     "id": "rule-184",
     "active": false,
     "text": "部屋の触ったことない部分を触る。"
+  },
+  {
+    "id": "rule-185",
+    "active": false,
+    "text": "レシートを必ずもらう。"
+  },
+  {
+    "id": "rule-186",
+    "active": false,
+    "text": "写真はスマホを横にして撮る。"
+  },
+  {
+    "id": "rule-187",
+    "active": false,
+    "text": "なるべく略語を使わない。"
+  },
+  {
+    "id": "rule-188",
+    "active": false,
+    "text": "何やら堂々としているものを見つける。"
+  },
+  {
+    "id": "rule-189",
+    "active": false,
+    "text": "家にリモコンが何個あるか数える。"
+  },
+  {
+    "id": "rule-190",
+    "active": false,
+    "text": "去年の今日、何をしていたか確かめる。"
+  },
+  {
+    "id": "rule-191",
+    "active": false,
+    "text": "何かを置くとき、音を立てずに置く。"
+  },
+  {
+    "id": "rule-192",
+    "active": false,
+    "text": "声に出して何かを褒める。"
+  },
+  {
+    "id": "rule-193",
+    "active": false,
+    "text": "花の匂いをかいでみる。"
+  },
+  {
+    "id": "rule-194",
+    "active": false,
+    "text": "名前を知らない道具を探す。"
+  },
+  {
+    "id": "rule-195",
+    "active": false,
+    "text": "10年後に残したい今日の出来事を決める。"
+  },
+  {
+    "id": "rule-196",
+    "active": false,
+    "text": "人工物なのに生き物っぽいものを探す。"
+  },
+  {
+    "id": "rule-197",
+    "active": false,
+    "text": "家にある本で、一番ページ数が多いものを探す。"
+  },
+  {
+    "id": "rule-198",
+    "active": false,
+    "text": "5年以内に絶対に行く旅行先を決める。"
   }
 ]
